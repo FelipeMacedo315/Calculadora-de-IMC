@@ -38,10 +38,11 @@ button{
 }
 .section-resultado{
     height: 250px;
-    width: 550px;
+    width: 50%;
     background-color: black;
     color: yellow;
     margin-top: 2%;
     font-size: 1.2em;
    text-align: center;
 }
+
