@@ -32,6 +32,7 @@ function calculate() {
        msg = 'prencha os campos corretamente!'
    }
 
+   console.log(imcInteiro)
 
     document.getElementsByTagName('section')[0].innerHTML=`<p>${nome} seu IMC é ${imcInteiro} ${msg}</p>`
 
